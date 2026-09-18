@@ -12,6 +12,20 @@
 
 ---
 
+### ⭐ Featured Project — [mealkitdeals.com](https://mealkitdeals.com/)
+
+Open-source **US meal-kit promo radar** I ship and operate end-to-end:
+
+| | |
+| --- | --- |
+| **Live site** | [mealkitdeals.com](https://mealkitdeals.com/) |
+| **Source** | [hellofresh-deals-promo-radar](https://github.com/longlicode/hellofresh-deals-promo-radar) |
+| **Data rule** | Every listing ties to an **official brand promo page** (`source_url` + scrape date). No invented prices, codes, or expiry dates. |
+| **Automation** | GitHub Actions every **6h**: `scraper.py` → `data/offers.json` → static `build.py` → **Cloudflare Pages** deploy. Zero runtime LLM on the default scrape path. |
+| **Open data** | JSON / CSV exports in-repo for reuse with attribution to each row’s source. |
+
+---
+
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
