@@ -7,23 +7,9 @@
 ### 🚀 About Me
 - 🔭 **Focus**: AI Agents, Intelligent Workflow Automation, and Robust Quality Engineering.
 - ⚡ **Exploring**: System One Decision Models (Jev), LLM Context Compaction, Model Routing & Multi-Agent Orchestration.
-- 🌐 **Website**: [dragonll.com](https://dragonll.com/)
-- 📍 **Location**: Shanghai, China (UTC+8).
+- 🏠 **Personal Blog / Digital Garden**: [dragonll.com](https://dragonll.com/)
+- 📍 **Location**: Abu Dhabi, UAE.
 - 💬 **Ask me about**: Automated API Testing, CI/CD Pipelines, Agent Workflows, TypeScript & Python.
-
----
-
-### ⭐ Featured Project — [mealkitdeals.com](https://mealkitdeals.com/)
-
-Open-source **US meal-kit promo radar** I ship and operate end-to-end:
-
-| | |
-| --- | --- |
-| **Live site** | [mealkitdeals.com](https://mealkitdeals.com/) |
-| **Source** | [hellofresh-deals-promo-radar](https://github.com/longlicode/hellofresh-deals-promo-radar) |
-| **Data rule** | Every listing ties to an **official brand promo page** (`source_url` + scrape date). No invented prices, codes, or expiry dates. |
-| **Automation** | GitHub Actions every **6h**: `scraper.py` → `data/offers.json` → static `build.py` → **Cloudflare Pages** deploy. Zero runtime LLM on the default scrape path. |
-| **Open data** | JSON / CSV exports in-repo for reuse with attribution to each row’s source. |
 
 ---
 
